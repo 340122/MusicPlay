@@ -1,0 +1,446 @@
+{
+  "album": [
+    {
+      "albumId": "1",
+      "name": "流行指数榜",
+      "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004RqKUp1JyJAU.jpg?max_age=2592000",
+      "playNum": "203.3万",
+      "list": [
+        {
+          "musicId": "101",
+          "name": "最美的期待",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001Qn04n29RAmP.jpg?max_age=2592000",
+          "path": "http://sc1.111ttt.cn/2018/1/03/13/396131229550.mp3",
+          "author": "周笔畅"
+        },
+        {
+          "musicId": "102",
+          "name": "我曾",
+          "poster": "https://y.gtimg.cn/music/photo_new/T001R300x300M000002NS2204SODNk.jpg?max_age=2592000",
+          "path": "http://se.sycdn.kuwo.cn/26897c70cb1b64fb91eb3def7cc9ad24/5d0a040c/resource/n3/47/28/3174193658.mp3",
+          "author": "隔壁老樊"
+        },
+        {
+          "musicId": "103",
+          "name": "孤独的人在哪里",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R90x90M000001ggwSN45Rx8k.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M5000034tvrI16BEIN.mp3?vkey=00B53C6E00EC9385409E9FE5152F7271F266F3FB0D6A41AC98D75ADE96D07C0DDA4109035692523B2E870B2DD1EA024FB4E6CEB5E5AA579F&guid=5150825362&fromtag=1",
+          "author": "摩登兄弟"
+        },
+        {
+          "musicId": "104",
+          "name": "You Need To Calm Down",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004TL0gm15U1ev.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M50000246B2z2iDkeV.mp3?vkey=FCAA9526473E4099E13AB0339A3609B03478FC5F568014022A78DFA72E5D583ECBE5C9B9BF316A5E44DF2600A819E656BF0AAFEA9F08095F&guid=5150825362&fromtag=1",
+          "author": "Taylor Swift"
+        },
+        {
+          "musicId": "105",
+          "name": "BIRTHDAY",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003qfWgD30T7Yt.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M500004J3X0n14JGOl.mp3?vkey=465068D82A9E82A1AACF435BD3D52E238A69AF3557DAD7C5A1531AD7192ADBB50FB3A313BCF41A3DEC2F60177CF8D024DA8602A33460B46B&guid=5150825362&fromtag=1",
+          "author": "전소미 (全昭弥)"
+        },
+        {
+          "musicId": "106",
+          "name": "多年以后",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004NiE4r2IRs6I.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M500001FS7ce41y4dZ.mp3?vkey=55FA0CD580ACF9ECC07332EFA50233485606C4849F12A25742F00C6CE8DB423E4266C1C0B5291FEEC7019F85C7F97708F5C30E0A584A5A6D&guid=5150825362&fromtag=1",
+          "author": "大欢"
+        },
+        {
+          "musicId": "107",
+          "name": "17岁",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003I6tYD3eGhER.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M500000HWyhv4UJpLq.mp3?vkey=4394792A36FD2A20DA684024C556747E97D965214CD58D77807D618BC3A731834DEE936BD1EC1C64A9E8E5567320930BDC006443D9F2802F&guid=5150825362&fromtag=1",
+          "author": "刘德华"
+        },
+        {
+          "musicId": "108",
+          "name": "错",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000011I2mm0tmuSZ.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M500000LGqaa1PuVfH.mp3?vkey=E11F66A288C7C0B5FB1EC94E4DE393225BAFA629516793EF291D999034173A6742D2C6627DE5D5ACAC283A5F1ECBE6E15BD762E10F66B470&guid=5150825362&fromtag=1",
+          "author": "黄子韬"
+        }
+      ]
+    },
+    {
+      "albumId": "2",
+      "name": "新歌榜",
+      "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000ToxJR3w9Gos.jpg?max_age=2592000",
+      "playNum": "78.3万",
+      "list": [
+        {
+          "musicId": "201",
+          "name": "耿",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004Onabc0qNJs1.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M500001cG7uR1Igu37.mp3?vkey=9CF81A9E81EF7024BA9C8EF0D2CA6A5ABFA4C537CFF8BCF96EF66DDDE257139310A8780B8FBB3C5E9D679143E00E95F7C541D7D784148E7F&guid=5150825362&fromtag=1",
+          "author": "汪苏泷"
+        },
+        {
+          "musicId": "202",
+          "name": "滚烫的青春",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003t8AXc4T3xtS.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M5000006PJ9G0usCic.mp3?vkey=1FEA1BD8C547BE13FA27E277CEE9E9999A9FE085152DFB289D9FDC5D0E37B32A2824DB48A5B218E973875AEAFA5676C4F14F3F6BEA8D8826&guid=5150825362&fromtag=1",
+          "author": "王源"
+        },
+        {
+          "musicId": "203",
+          "name": "Call You Mine",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003MjurJ2RM917.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M500004DdzSy2rv5d6.mp3?vkey=B7F0A1B16AA94B110CBB00221B3330BF4625BCA5CAA7797F41DCC7C7E2A013E5237BC2E4681A1A628AE1AA0AA8D070BBB67364C4A93A1EC3&guid=5150825362&fromtag=1",
+          "author": "The Chainsmokers,Bebe Rexha"
+        },
+        {
+          "musicId": "204",
+          "name": "最好的我们",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000029Zm3m2bZUFQ.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M500000ExVwe1MemXD.mp3?vkey=946FA5A2AF7F4A9B66C0252E613A8EA4E4E204A1A3CD04DC24F379FEB688FAF37CA45DED61CDFCC84C3FE746A37C1D6B90C24052A64D3DC7&guid=5150825362&fromtag=1",
+          "author": "陈飞宇"
+        },
+        {
+          "musicId": "205",
+          "name": "拙慕",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001qYOQH34ytgA.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M5000042QR5D2I7k9T.mp3?vkey=08B8092F2A25BDFE8897046D6269BB39BE452DDD953E2C27BB9AE16005C31C4865CEE1EC14EA6438A08F340D4814729B5E70BE9786845009&guid=5150825362&fromtag=1",
+          "author": "周深"
+        },
+        {
+          "musicId": "206",
+          "name": "Romantic Inspiration",
+          "poster": "http://res.lgdsunday.club/poster-6.png",
+          "path": "http://res.lgdsunday.club/Romantic%20Inspiration.mp3",
+          "author": "Rafael Krux"
+        },
+        {
+          "musicId": "207",
+          "name": "Brothers Unite",
+          "poster": "http://res.lgdsunday.club/poster-7.png",
+          "path": "http://res.lgdsunday.club/Brothers%20Unite.mp3",
+          "author": "Alexander Nakarada"
+        },
+        {
+          "musicId": "208",
+          "name": "我们很好",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000010AYuF3nqxhw.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M5000005lLc501ZqsM.mp3?vkey=BAADEA2F1814A55A1A341899C9C18BEE28AEEBB279F00046F3DDFB4D4530DC6D56B056388E10A6D081F2A26B42CCE750D4A97663A3BAE737&guid=5150825362&fromtag=1",
+          "author": "林俊杰"
+        }
+      ]
+    },
+    {
+      "albumId": "3",
+      "name": "热歌榜",
+      "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003QbtS503wY9y.jpg?max_age=2592000",
+      "playNum": "1098万",
+      "list": [
+        {
+          "musicId": "301",
+          "name": "来自天堂的魔鬼",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003c616O2Zlswm.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M500004dFFPd4JNv8q.mp3?vkey=3F1259B51631DD61C7D5163B66135C28D43E364CEE566D0F4651B0FE18E6F26D5A97FCB846E645BB04507B5D849A0E963754A70AD75118F8&guid=5150825362&fromtag=1",
+          "author": "G.E.M. 邓紫棋"
+        },
+        {
+          "musicId": "302",
+          "name": "我的名字",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004PydGx4duhNe.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M500002UKFwN1lc11D.mp3?vkey=7B6A1B3C5582878682DD9DC5EFAF795101907A03D2D049A5F56009395A1CC1989C97E95F1E37A32D8B58EDD63352ED01ED85CF1D70E58C25&guid=5150825362&fromtag=1",
+          "author": "焦迈奇"
+        },
+        {
+          "musicId": "303",
+          "name": "Champ de tournesol",
+          "poster": "http://res.lgdsunday.club/poster-3.png",
+          "path": "http://res.lgdsunday.club/Champ%20de%20tournesol.mp3",
+          "author": "Komiku"
+        },
+        {
+          "musicId": "304",
+          "name": "你的酒馆对我打了烊",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004NDHly42oXD2.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M500003xl9d83fVzUJ.mp3?vkey=9CB5BB446D3F409295DFCAC9518C37C6B99C377A68E56E66D0D58AEEE3D81A13B0404E627239E21BB2F3F67773A334677460CD417E0C51E4&guid=5150825362&fromtag=1",
+          "author": "陈雪凝"
+        },
+        {
+          "musicId": "305",
+          "name": "心如止水",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000021N8xr0xq1Fp.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M500003ebMYY2PGmn6.mp3?vkey=3950E5913F23CB2F135A5632EF86B94DBB8CAEBCDC18F559BA661BF468AA1D6666C504DAE31163CCA1B27540411B16E98EE63510374AB1E9&guid=5150825362&fromtag=1",
+          "author": "Ice paper"
+        },
+        {
+          "musicId": "306",
+          "name": "绿色",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000010UePb4dyfoi.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M5000021rBlZ1gQiLy.mp3?vkey=45254C16F677602B238BABF3866D835A39406A7A7A9453713E8AAEE62C763BCCCDEE658D111A8A1B45C64B4A24E74502E70C11A23D95D3EB&guid=5150825362&fromtag=1",
+          "author": "陈雪凝"
+        },
+        {
+          "musicId": "307",
+          "name": "Brothers Unite",
+          "poster": "http://res.lgdsunday.club/poster-7.png",
+          "path": "http://res.lgdsunday.club/Brothers%20Unite.mp3",
+          "author": "Alexander Nakarada"
+        },
+        {
+          "musicId": "308",
+          "name": "Amazing Grace",
+          "poster": "http://res.lgdsunday.club/poster-8.png",
+          "path": "http://res.lgdsunday.club/Amazing%20Grace.mp3",
+          "author": "Kevin MacLeod"
+        }
+      ]
+    },
+    {
+      "albumId": "4",
+      "name": "内地榜",
+      "poster": "https://p.qpic.cn/music_cover/R8unPZMA4Vp5v2Ms96bsticnEtmiabUOvrq1DibnvxP6MBKNKGEY52cxw/600?n=1",
+      "playNum": "1.2亿",
+      "list": [
+        {
+          "musicId": "401",
+          "name": "耿",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004Onabc0qNJs1.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M500001cG7uR1Igu37.mp3?vkey=9CF81A9E81EF7024BA9C8EF0D2CA6A5ABFA4C537CFF8BCF96EF66DDDE257139310A8780B8FBB3C5E9D679143E00E95F7C541D7D784148E7F&guid=5150825362&fromtag=1",
+          "author": "汪苏泷"
+        },
+        {
+          "musicId": "402",
+          "name": "拙慕",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001qYOQH34ytgA.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M5000042QR5D2I7k9T.mp3?vkey=08B8092F2A25BDFE8897046D6269BB39BE452DDD953E2C27BB9AE16005C31C4865CEE1EC14EA6438A08F340D4814729B5E70BE9786845009&guid=5150825362&fromtag=1",
+          "author": "周深"
+        },
+        {
+          "musicId": "403",
+          "name": "我的名字",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004PydGx4duhNe.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M500002UKFwN1lc11D.mp3?vkey=7B6A1B3C5582878682DD9DC5EFAF795101907A03D2D049A5F56009395A1CC1989C97E95F1E37A32D8B58EDD63352ED01ED85CF1D70E58C25&guid=5150825362&fromtag=1",
+          "author": "焦迈奇"
+        },
+        {
+          "musicId": "404",
+          "name": "最好的我们",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000029Zm3m2bZUFQ.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M500000ExVwe1MemXD.mp3?vkey=946FA5A2AF7F4A9B66C0252E613A8EA4E4E204A1A3CD04DC24F379FEB688FAF37CA45DED61CDFCC84C3FE746A37C1D6B90C24052A64D3DC7&guid=5150825362&fromtag=1",
+          "author": "陈飞宇"
+        },
+        {
+          "musicId": "405",
+          "name": "滚烫的青春",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003t8AXc4T3xtS.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M5000006PJ9G0usCic.mp3?vkey=1FEA1BD8C547BE13FA27E277CEE9E9999A9FE085152DFB289D9FDC5D0E37B32A2824DB48A5B218E973875AEAFA5676C4F14F3F6BEA8D8826&guid=5150825362&fromtag=1",
+          "author": "王源"
+        },
+        {
+          "musicId": "406",
+          "name": "孤独的人在哪里",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R90x90M000001ggwSN45Rx8k.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M5000034tvrI16BEIN.mp3?vkey=00B53C6E00EC9385409E9FE5152F7271F266F3FB0D6A41AC98D75ADE96D07C0DDA4109035692523B2E870B2DD1EA024FB4E6CEB5E5AA579F&guid=5150825362&fromtag=1",
+          "author": "摩登兄弟"
+        },
+        {
+          "musicId": "407",
+          "name": "Brothers Unite",
+          "poster": "http://res.lgdsunday.club/poster-7.png",
+          "path": "http://res.lgdsunday.club/Brothers%20Unite.mp3",
+          "author": "Alexander Nakarada"
+        },
+        {
+          "musicId": "408",
+          "name": "Amazing Grace",
+          "poster": "http://res.lgdsunday.club/poster-8.png",
+          "path": "http://res.lgdsunday.club/Amazing%20Grace.mp3",
+          "author": "Kevin MacLeod"
+        }
+      ]
+    },
+    {
+      "albumId": "5",
+      "name": "欧美榜",
+      "poster": "https://p.qpic.cn/music_cover/MRv7K6JSIesyBiaHXtV4wnaNMtYQtP9nSnstqicgFfpv9uBkS75ZjgRc8CGqGDlZBb/600?n=1",
+      "playNum": "2089.7万",
+      "list": [
+        {
+          "musicId": "501",
+          "name": "Call You Mine",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003MjurJ2RM917.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M500004DdzSy2rv5d6.mp3?vkey=B7F0A1B16AA94B110CBB00221B3330BF4625BCA5CAA7797F41DCC7C7E2A013E5237BC2E4681A1A628AE1AA0AA8D070BBB67364C4A93A1EC3&guid=5150825362&fromtag=1",
+          "author": "The Chainsmokers,Bebe Rexha"
+        },
+        {
+          "musicId": "502",
+          "name": "Never Really Over",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004EkVlw23Cxst.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M500002gRoO90dYdmP.mp3?vkey=A7AFE8DB3B1E2341AF16AADF9685A1EF380F65C811485A4F67462B5084732137F2D262A8ABD1C59581D0E703D33E4972EC69482967CD6FE3&guid=5150825362&fromtag=1",
+          "author": "Katy Perry"
+        },
+        {
+          "musicId": "503",
+          "name": "Cross Me",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004RqsA23Bd91y.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M500002lJpkA3hSvhq.mp3?vkey=A924DD99F744BE52CDDC67B6141E237420C360DF974100DB30A76AC17955E64E74509AACDEFF16AADD43CFF9DA51E72378B5A8C01A2398E6&guid=5150825362&fromtag=1",
+          "author": "Ed Sheeran,Chance the Rapper,PnB Rock"
+        },
+        {
+          "musicId": "504",
+          "name": "Speechless (Full) (《阿拉丁》电影插曲)",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002p2gsr3ePgdi.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M500001uVvJB18SYbN.mp3?vkey=6CFFE7F2ABD579E84C21DF00490C10051B365CFE65E870C23C06823F218F6D76E34AF79F195A53954ED1EE9EA36A6C2F9E95D1FA865B1ADD&guid=5150825362&fromtag=1",
+          "author": "Naomi Scott"
+        },
+        {
+          "musicId": "505",
+          "name": "Lovely Piano Song",
+          "poster": "http://res.lgdsunday.club/poster-5.png",
+          "path": "http://res.lgdsunday.club/Lovely%20Piano%20Song.mp3",
+          "author": "Rafael Krux"
+        },
+        {
+          "musicId": "506",
+          "name": "Romantic Inspiration",
+          "poster": "http://res.lgdsunday.club/poster-6.png",
+          "path": "http://res.lgdsunday.club/Romantic%20Inspiration.mp3",
+          "author": "Rafael Krux"
+        },
+        {
+          "musicId": "507",
+          "name": "Brothers Unite",
+          "poster": "http://res.lgdsunday.club/poster-7.png",
+          "path": "http://res.lgdsunday.club/Brothers%20Unite.mp3",
+          "author": "Alexander Nakarada"
+        },
+        {
+          "musicId": "508",
+          "name": "Amazing Grace",
+          "poster": "http://res.lgdsunday.club/poster-8.png",
+          "path": "http://res.lgdsunday.club/Amazing%20Grace.mp3",
+          "author": "Kevin MacLeod"
+        }
+      ]
+    },
+    {
+      "albumId": "6",
+      "name": "网络歌曲榜",
+      "poster": "https://p.qpic.cn/music_cover/PJrGzQib7nia43112ibFrSia1P9blmOacmYm4ogRHxTt2TDqYjFqDC8Z6w/600?n=1",
+      "playNum": "56.7万",
+      "list": [
+        {
+          "musicId": "601",
+          "name": "余情未了",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004K3LHV3ht6pl.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M500003USWw32Y4oGN.mp3?vkey=7D49E4690996999BE480071E61429EEE1E5986C792659CA871FCBE59B01E051B5A61B21B532830AD67D23C1FD2507CC546CA6A11F522599F&guid=5150825362&fromtag=1",
+          "author": "魏新雨"
+        },
+        {
+          "musicId": "602",
+          "name": "La Citadelle",
+          "poster": "http://res.lgdsunday.club/poster-2.png",
+          "path": "http://res.lgdsunday.club/La%20Citadelle.mp3",
+          "author": "Komiku"
+        },
+        {
+          "musicId": "603",
+          "name": "心如止水 (女声完整版)",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004LZcge2sTIZB.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M500003OiTMt1XiXxm.mp3?vkey=BFEA7C85F82C43AF9D448F3006910D7B8C5C13D150DE0C26D008578EF1ACF32F73739A1A930F47625C94C0843E8958AED30D50004708C74C&guid=5150825362&fromtag=1",
+          "author": "喻言家"
+        },
+        {
+          "musicId": "604",
+          "name": "情深深雨濛濛",
+          "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002lM0pQ3ylmFW.jpg?max_age=2592000",
+          "path": "http://dl.stream.qqmusic.qq.com/M500003iHWbo0vq21B.mp3?vkey=91FD39FB4FEEBC7B2392BFF36B9022F07622214DC8EB840A5E73473F7FE9CCA1C6F2C110023FE47FA671561443DB7009D3711CDBCAD35CC4&guid=5150825362&fromtag=1",
+          "author": "杨胖雨"
+        },
+        {
+          "musicId": "605",
+          "name": "Lovely Piano Song",
+          "poster": "http://res.lgdsunday.club/poster-5.png",
+          "path": "http://res.lgdsunday.club/Lovely%20Piano%20Song.mp3",
+          "author": "Rafael Krux"
+        },
+        {
+          "musicId": "606",
+          "name": "Romantic Inspiration",
+          "poster": "http://res.lgdsunday.club/poster-6.png",
+          "path": "http://res.lgdsunday.club/Romantic%20Inspiration.mp3",
+          "author": "Rafael Krux"
+        },
+        {
+          "musicId": "607",
+          "name": "Brothers Unite",
+          "poster": "http://res.lgdsunday.club/poster-7.png",
+          "path": "http://res.lgdsunday.club/Brothers%20Unite.mp3",
+          "author": "Alexander Nakarada"
+        },
+        {
+          "musicId": "608",
+          "name": "Amazing Grace",
+          "poster": "http://res.lgdsunday.club/poster-8.png",
+          "path": "http://res.lgdsunday.club/Amazing%20Grace.mp3",
+          "author": "Kevin MacLeod"
+        }
+      ]
+    }
+  ],
+  "hot": [
+    {
+      "musicId": "7",
+      "name": "月牙湾",
+      "poster": "http://m.qpic.cn/psb?/V1418awh2fYyUm/PEoVrg4Lt8jc7IzCOgwLNTTCvSEIagCZ36nO183sLu0!/b/dDQBAAAAAAAA&bo=LAEsASwBLAEBCS4!&rf=viewer_4",
+      "path": "http://www.ytmp3.cn/down/56453.mp3",
+      "author": "飞儿乐团"
+    },
+    {
+      "musicId": "8",
+      "name": "最爱",
+      "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002aGL9y2cft9i.jpg?max_age=2592000",
+      "path": "http://other.web.nf01.sycdn.kuwo.cn/91e64e47339968c945367ab68ce12aa6/5d0a00a6/resource/n2/21/52/393985369.mp3",
+      "author": "周慧敏"
+    },
+    {
+      "musicId": "9",
+      "name": "萤火虫对星星说",
+      "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004Gbd430y0c8d.jpg?max_age=2592000",
+      "path": "http://sp.sycdn.kuwo.cn/f59d112c9f92f967932bc01ee45ba45a/5d0a0079/resource/n2/57/27/1737857024.mp3",
+      "author": "许歌淳一"
+    },
+    {
+      "musicId": "10",
+      "name": "渡口",
+      "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004GTWOM2Dm9N8.jpg?max_age=2592000",
+      "path": "http://nm01.sycdn.kuwo.cn/6e9c1f633e23c6bb2f912bee8e3facfd/5d0a0051/resource/n3/91/5/992752733.mp3",
+      "author": "蔡琴"
+    },
+    {
+      "musicId": "11",
+      "name": "拙慕",
+      "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001qYOQH34ytgA.jpg?max_age=2592000",
+      "path": "http://dl.stream.qqmusic.qq.com/M5000042QR5D2I7k9T.mp3?vkey=08B8092F2A25BDFE8897046D6269BB39BE452DDD953E2C27BB9AE16005C31C4865CEE1EC14EA6438A08F340D4814729B5E70BE9786845009&guid=5150825362&fromtag=1",
+      "author": "周深"
+    },
+    {
+      "musicId": "12",
+      "name": "最好的我们",
+      "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000029Zm3m2bZUFQ.jpg?max_age=2592000",
+      "path": "http://dl.stream.qqmusic.qq.com/M500000ExVwe1MemXD.mp3?vkey=946FA5A2AF7F4A9B66C0252E613A8EA4E4E204A1A3CD04DC24F379FEB688FAF37CA45DED61CDFCC84C3FE746A37C1D6B90C24052A64D3DC7&guid=5150825362&fromtag=1",
+      "author": "陈飞宇"
+    },
+    {
+      "musicId": "13",
+      "name": "来自天堂的魔鬼",
+      "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003c616O2Zlswm.jpg?max_age=2592000",
+      "path": "http://sr.sycdn.kuwo.cn/d050a9b82b506f6f03d29e639d2d3683/5d0a012c/resource/n1/87/69/3929342859.mp3",
+      "author": "G.E.M. 邓紫棋"
+    },
+    {
+      "musicId": "14",
+      "name": "Speechless (Full) (《阿拉丁》电影插曲)",
+      "poster": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002p2gsr3ePgdi.jpg?max_age=2592000",
+      "path": "http://sp.sycdn.kuwo.cn/00eaa02b8629d8a107f44ab1ebd0829c/5d0a01d9/resource/n1/6/21/414570440.mp3",
+      "author": "Naomi Scott"
+    }
+  ]
+}

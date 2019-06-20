@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="cn.massz.musicapplication.activitys.RegisterActivity">
+
+    <include layout="@layout/nav_bar"/>
+
+    <!--<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LoginActivity"
+        android:textSize="48sp"/>-->
+    <ImageView
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:src="@mipmap/logo"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/marginSize"/>
+    <cn.massz.musicapplication.views.InputView
+        android:id="@+id/input_phone2"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/inputViewHeight"
+        android:layout_marginTop="@dimen/marginSize"
+        app:input_icon="@mipmap/phone"
+        app:input_hint="请输入手机号"
+        app:is_password="false"></cn.massz.musicapplication.views.InputView>
+    <View
+        style="@style/line"/>
+
+    <cn.massz.musicapplication.views.InputView
+        android:id="@+id/input_password2"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/inputViewHeight"
+        app:input_icon="@mipmap/password"
+        app:input_hint="请输入密码"
+        app:is_password="true"></cn.massz.musicapplication.views.InputView>
+    <View
+        style="@style/line"/>
+
+    <cn.massz.musicapplication.views.InputView
+        android:id="@+id/input_password_confirm2"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/inputViewHeight"
+        app:input_icon="@mipmap/password"
+        app:input_hint="请再次输入密码"
+        app:is_password="true"></cn.massz.musicapplication.views.InputView>
+    <View
+        style="@style/line"/>
+
+    <Button
+        style="@style/commitBtn"
+        android:text="注  册"
+        android:layout_marginTop="@dimen/marginSize"
+        android:onClick="onRegisterClick2"
+        />
+</LinearLayout>
+
